@@ -51,7 +51,7 @@ if (strpos($checkuseragent, 'MSIE 8')) {$username = str_replace("'", "&prime;", 
 <?php
 } ?>
 <meta property="og:image" itemprop="image" content="<?php echo $CFG->wwwroot?>/pluginfile.php/1/theme_lambda/logo/-1/logo.jpg" /> 
-    <meta property="og:title" content="CGPSC Competition Community" />
+    <meta property="og:title" content="Hello CGPSC Competition Community" />
 <meta property="og:description" content="CGPSC | CGPSC Testseries">
 <link rel="stylesheet" type="text/css" href="<?php echo $CFG->wwwroot; ?>/theme/lambda/style/custom.css">
 
