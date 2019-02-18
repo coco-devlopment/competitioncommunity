@@ -1,0 +1,186 @@
+.corow, .specials-course img, .ord-packd-price ul li h5, .ord-packd-price ul li span, .catg-list ul li, .share-media span a i, .student-form dfn input[type=text], .student-form dfn input[type=email], .student-form dfn textarea, .student-form dfn select, .fixlabel dfn label, .user-names, .flush_data dfn, .head_one span, .body_text, .student-form dfn input[type="date"], .package-details h3, .package-details h4, .package-details h5, .link-text span, .specials-course ul {width: 100%;}
+.c-form, .student-form #submit, .quest-form #submit, .head_one bdo, .quest-form dfn input[type=file] {width: auto;}
+.c-form dfn, .c-form dfn label, .c-form dfn input[type=text], .c-form dfn input[type=email], .c-form dfn textarea, .c-form dfn select {width: 98.67%;}
+.student-form dfn input[type=text], .student-form dfn input[type=mail], .student-form dfn input[type=mail], .student-form dfn input[type=password], .student-form dfn input[type=date], .student-form dfn input[type=tel], .student-form dfn select {height: auto;}
+.share-media span a i {height: 100%;}
+.clrleft, .rsm-left, .c-form dfn span, .data-list-tabs ul li, .ord-packd-price ul li, .ord-packd-price ul li h5, .ord-packd-price ul li span, .data-list-tabs ul li h5, .data-list-tabs ul li span, .trans-details ul li, .student-form dfn label, .student-form dfn bdo, .check-list ul li, .like_count, .detals-tests ul li, .quest-form dfn label, .quest-form dfn select, .quest-form dfn textarea, .quest-form dfn input[tyle=text] {float: left;}
+.clrright, .share-media {float: right;}
+.codis_inline, .c-form, .c-form dfn, .c-form dfn label, .c-form dfn input[type=text], .c-form dfn textarea, .c-form dfn select, .pck_oder_body, .ord-packd-price ul, .catg-list ul li, .share-media span, .student-form dfn label, .student-form dfn bdo, .table-coeffect tr td a, .table-coeffect tr td span, .user-names, .flush_data dfn, .head_one span, .head_one span, .body_text, .package-details h3, .package-details h4, .package-details h5, .link-text span, .specials-course h4 span, .product-list span, .quest-form dfn label, .specials-course ul, .test-shows h4, .package-details small, .package-details span {display: inline-block;}
+.table-effect .clc-pop, .share-media span a {display: table;}
+.table-effect .clc-pop i, .share-media span a i {display: table-cell;}
+.p-relative, .table-effect, .catg-list ul li, .quize-wrapp, .student-form .date, .check-list ul li, .head_one {position: relative;}
+.table-effect .clc-pop, .catg-list ul li::after, .tolt-postq, .student-form .date .input-group-addon, .check-list ul li input[type="checkbox"], .user-names, .head_one bdo, .close_popup {position: absolute;}
+.flow_full, .pck_oder_body {overflow: hidden;}
+.popup-table {overflow-y: scroll;}
+.catg-list ul li::after {content: '';}
+
+/*========== MARGIN ==========*/
+.ord-packd-price ul, .ord-packd-price ul li h5, .cart-add button, .test-shows h4 {margin:0;}
+.pln-tab>.panel-heading>.panel-title {margin:10px 0; }
+.rs-mt-1 {margin-top: -10px;}
+.student-form h4, .panel-heading h3, .package-details h3, .product-list h3 {margin-top: 0;}
+.mt-10, .product-list p {margin-top: 10px;}
+.dashborder-tb, .ord-packd-price {margin-top: 15px;}
+.package-details ul {margin-top: 20px;}
+.mt-25 {margin-top: 25px;}
+.mt-50 {margin-top: 50px;}
+.ord-packd-price ul li:last-child {margin-right: 0;}
+.quest-form dfn label {margin-right: 10px;}
+.c-form dfn span, .data-list-tabs ul li h5 {margin-right: 15px;}
+.ord-packd-price ul li, .check-list ul li {margin-right: 20px;}
+.detals-tests ul li {margin-right: 25px;}
+.pck_oder_body h3, .data-list-tabs ul li h5, .trans-details ul li h5, .like_count button.like {margin-bottom: 0;}
+.c-form dfn label, .panel-heading h3, .specials-course ul li {margin-bottom:5px;}
+.catg-list ul li, .check-list ul li, .light_slabus ul li, .detals-tests ul li {margin-bottom: 10px;}
+.c-form {margin-bottom: 15px;}
+.download-info p, .flush_data dfn p {margin-bottom: 30px;}
+.mb-65 {margin-bottom: 65px;}
+.table_line .table-primary .dataTables_wrapper .dt-buttons button:first-child, .package-details ul {margin-left: 0;}
+.ml-10, .bdo_let {margin-left: 10px;}
+
+/*========== PADDING ==========*/
+.table-effect .clc-pop {padding:0 0 0 0;}
+.product-list p {padding:0 20px;}
+.head_one span, .body_text {padding: 20px 0;}
+.product-list {padding: 20px 0;}
+.table-coeffect tr td span, .test-shows {padding: 3px 6px;}
+.action-btn a, .action-btn button, .action-btn .btn {padding:6px 12px;}
+.like_count button.like, .like_count span, .done_payment h4 {padding: 5px 15px;}
+.ord-packd-price ul, .payble {padding: 5px 20px;}
+.student-form #submit, .quest-form #submit {padding: 6px 18px;}
+.specials-course h4 span {padding: 10px 20px;}
+.ptba10 {padding: 15px;}
+.ptba15 {padding: 15px;}
+.ptba20, .c-form {padding: 20px;}
+.download-info {padding: 30px;}
+.data-list-tabs {padding-top: 10px;}
+.dashborder-tb {padding-top: 15px;}
+.ord-packd-price ul li:last-child {padding-right: 0;}
+.ord-packd-price ul li {padding-right: 20px;}
+.catg-list ul li {padding-bottom: 10px;}
+.package-details h3, .package-details ul {padding-bottom: 15px;}
+.check-list ul li {padding-left: 25px;}
+.copyright {padding-left: 30px;}
+
+/*========== TEXT STYLE ==========*/
+.user-names {font-size: 12px;}
+.ans_list ol li span i, .link-text span {font-size: 13px;}
+.product-list p {font-size: 0.8em;}
+.ord-packd-price ul li span, .check-list ul li {font-size:14px;}
+.data-list-tabs ul li span, .ord-packd-price ul li span, .pagination ul>li>a, .pagination ul>li>span, .table-coeffect tr td span {font-size:16px;}
+.download-info p, .package-details ul, .flush_data dfn p, .panel-heading h3 {font-size: 18px;}
+.c-form dfn #refresh, .package-details h3, .payble {font-size: 20px;}
+.font-25s, .light_slabus h5, .close_popup {font-size: 25px;}
+.specials-course h4 span {font-size: 30px;}
+.product-list h3 {font-size:1.6rem;}
+.head_one bdo, .done_payment span.i_done {font-size: 100px;}
+.head_one span {font-size: 120px;}
+.align-right, .ord-packd-price, .ord-packd-price ul, .user-names {text-align: right;}
+.align-center, .share-media span a, .table-coeffect tr td span {text-align: center;}
+.modal-title {text-transform: uppercase;}
+.table-effect .clc-pop i, .share-media span a i {vertical-align: middle;}
+.download-info p {line-height: 30px;}
+.done_payment h4 {font-weight: normal!important;}
+.c-form dfn label, .student-form dfn label, .quiz-details p {font-weight: 700;}
+.c-form dfn, .student-form dfn, .flush_data dfn, .quest-form dfn {font-style: normal;}
+.data-list-tabs ul, .trans-details ul, .ord-packd-price ul, .check-list ul {list-style: none;}
+body, .student-form #submit, .quest-form #submit, .panel-heading h3 {line-height: 20px;}
+.delete, .close_popup, .ico_active {cursor: pointer;}
+
+/*========== TEXT COLOR ==========*/
+.titel-text-W h1, .titel-text-W h2, .titel-text-W h3, .titel-text-W h4, .titel-text-W h5, .titel-text-W h6, .ico_edte, .ico_delete, .text-white, .pagination ul li.active a, .table-coeffect tr td span a, .head_one span, .flush_data dfn p, .ico_active, .specials-course {color: #fff;}
+.like_count span {color: #9a9898;}
+.data-list-tabs ul li span a:hover, .done_payment h4 {color: #000;}
+.success-color, .done_payment span.i_done {color: #5bb75b;}/*green*/
+.user-names i {color: #31708f;}/*blue*/
+.data-list-tabs ul li span a, .close_popup:hover {color: #f9bf3b;}/*orang*/
+.head_one bdo, .payble {color: #f00;}
+
+/*========== BACKGROUND ==========*/
+.white-bg {background: #fff;}
+.like_count span, .light_gray, .ord-packd-price ul, .done_payment h4, .test-shows {background: #f3f3f3;}
+.gray_bg {background:#caccd1;}
+.catg-list ul li::after {background: #eaeaea;}
+.cfm-gray {background: #f3f4f7;}
+.black_defoult {background: #3a454b;} /*black*/
+.pagination ul li.active a, .orang_slabus {background: #f9bf3b;}/*orang*/
+.defoult-blue, .student-form #submit, .quest-form #submit {background: #0088CC;}/*defoult blue*/
+
+.fb_ico {background: #3b5999; color: #fff;}/*fb*/
+.twit_ico {background: #55acee; color: #fff;}/*twit*/
+.ytb_ico {background: #cd201f; color: #fff;}/*youtube*/
+.like_ico {background: #00c300; color: #fff;}/*like*/
+
+/*========== BORDER RADIUS ==========*/
+.table-effect .clc-pop {border-radius: 100%;}
+.ord-packd-price ul {border-radius: 5px 0 0 5px;}
+.head_one {border-radius: 5px 5px 0 0;}
+.body_text {border-radius: 0 0 5px 5px;}
+.brd-radius5, .done_payment h4 {border-radius: 5px;}
+.package-details {border-radius: 10px;}
+.brd-radius3, .share-media span a, .like_count span, .student-form #submit, .quest-form #submit, .specials-course h4 span {border-radius: 3px;}
+
+/*========== BORDER ==========*/
+.ord-packd-price ul li:last-child {border-right: none;}
+.specials-course {border: 1px dashed #fff;}
+.specials-course figure img {border: 2px solid #fff;}
+.sborder-white {border-bottom: 1px solid #fff;}
+.sborder-white {border-left: 1px solid #fff;}
+.bdr-gray, .cfm-gray, .product-list, .like_count span, .done_payment h4 {border: 1px solid #e8e8e8;}
+.dashborder-tb {border-top: 1px dashed #e8e8e8;}
+.light_slabus ul {border-bottom: 1px dashed #e8e8e8;}
+.data-list-tabs, .ord-packd-price {border-top: 1px dashed #ddd;}
+.ord-packd-price ul li {border-right: 1px solid #dedfe4;}
+.download-info:hover {border: 1px solid #9e9e9e;}
+.light_slabus h3 {border-bottom: 1px dashed #ddd;}/*gray*/
+.orang-solid-4 {border:1px solid #f9bf3b;}/*orang*/
+.payble {border:1px solid #f00;}/*red*/
+
+/*========== SHADOW ==========*/
+.download-info:hover {box-shadow: 0px 0px 13px -2px #000;}/*black*/
+
+/* ============= C- FORM CSS PART ============== */
+.adfrm-90 input[type=text], .adfrm-90 select {width: 90%;}
+.quest-form dfn select, .quest-form dfn textarea, .quest-form dfn input[type=text] {width: 79.8%;}
+.student-form dfn input[type=text], .student-form dfn input[type=email], .student-form dfn textarea, .student-form dfn select {width: 98%;}
+
+/*========== GENERAL ==========*/
+.table-effect .clc-pop {right: -27px; top: -50px; width: 30px; height: 30px;}
+.popup-table {height: 450px;}
+.c-form dfn input#captcha {width: 30%;}
+.data-list-tabs ul li {width: 25%;}
+.data-list-tabs ul li span {margin-top: 12px;}
+.trans-details ul li {width: 25%;}
+.catg-list ul li::after {width: 104.5%; height: 1px; left: -20px; bottom: 0;}
+.tolt-postq {top: 0; right: 0;}
+.share-media span a {width: 27px; height: 27px;}
+.like_count button.like, .like_count span {line-height: 17px;}
+.admin_search dfn {margin-top: 12px;}
+.student-form .date .input-group-addon {top: 4px; right: 15px;}
+.student-form .datesxl .input-group-addon {top: 30px; right: 0;}
+.student-form .date .idates {top: -8px; right: 10px;}
+.check-list ul li {width: 30%;}
+.check-list ul li input[type="checkbox"] {left: 0; top: 6px; width: 15px; height: 15px;}
+.table-coeffect tr td .ico_edte, .table-coeffect tr td .ico_delete, .ico_active {width: 20px; height: 20px;}
+.user-names {bottom: 0; right: 10px;}
+/* ==== PACKAGE CSS === */
+.head_one bdo {margin: 0 auto; left: 0; right: 0; top: 34px;}
+.close_popup {top: -10px; right: -8px;}
+.package-details {min-height: 210px;}
+.detals-tests ul li {width: 46%;}
+.specials-course ul {margin:30px 0;}
+/*.widths-12 {width: 12%;}*/
+.product-list {min-height: 368px;}
+
+
+@media only screen and (max-width: 1280px) {
+.product-list img.img-responsive, .package-details img.img-responsive {width: 90%;}
+
+}
+
+@media only screen and (max-width: 768px) {
+.detals-tests ul li, .quest-form dfn select, .quest-form dfn textarea, .quest-form dfn input[type=text], .student-form dfn input[type=text], .student-form dfn input[type=email], .student-form dfn textarea, .student-form dfn select {width: 100%;}
+.detals-tests ul li {margin-right: 0;}
+.rs-mt-1 {margin-top: 10px;}
+
+}
